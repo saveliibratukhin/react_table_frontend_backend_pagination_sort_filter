@@ -1,0 +1,8 @@
+.loadingContainer {
+    position: relative;
+    left: 50%;
+    height: 100%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}

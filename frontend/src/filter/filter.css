@@ -1,0 +1,8 @@
+.filterContainer {
+    width: 30%;
+    padding: 10px;
+    border-left: 2px solid black;
+    position: absolute;
+    right: 0;
+    height: 100%;
+}

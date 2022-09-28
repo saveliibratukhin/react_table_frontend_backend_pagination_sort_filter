@@ -1,0 +1,20 @@
+.paginator_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.selectAndLabelContainer{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    align-items: center;
+}
+
+.selectGoodsPerPage {
+    width: auto !important;
+    appearance: auto !important;
+    height: 100%;
+    margin-left: 5px;
+}

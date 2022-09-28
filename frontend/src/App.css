@@ -1,0 +1,10 @@
+.rowContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.tableContainer {
+  padding: 15px;
+  width: 70%;
+  left: 0;
+}
